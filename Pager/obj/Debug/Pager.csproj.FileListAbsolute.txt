@@ -1,0 +1,8 @@
+G:\DEV\Alone\C#\Pager\Pager\obj\Debug\PagerLRS.FrmNotification.resources
+G:\DEV\Alone\C#\Pager\Pager\obj\Debug\Pager.csproj.GenerateResource.Cache
+G:\DEV\Alone\C#\Pager\Pager\obj\Debug\Pager.exe
+G:\DEV\Alone\C#\Pager\Pager\obj\Debug\Pager.pdb
+G:\DEV\Alone\C#\Pager\Pager\bin\Debug\Pager.exe.config
+G:\DEV\Alone\C#\Pager\Pager\bin\Debug\Pager.exe
+G:\DEV\Alone\C#\Pager\Pager\bin\Debug\Pager.pdb
+G:\DEV\Alone\C#\Pager\Pager\obj\Debug\Pager.csprojResolveAssemblyReference.cache
